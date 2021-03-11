@@ -58,6 +58,10 @@ footer ul li {
   margin: 0 10px;
 }
 
+.qrCode {
+  margin-top: 10px;
+}
+
 @media screen and (min-width: 500px) {
   .projects {
     flex-direction: row;
